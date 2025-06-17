@@ -6,10 +6,10 @@ Bienvenido al repositorio oficial de **Codelabs** para la materia **Desarrollo d
 
 ## 📚 Temas Abordados
 
+- Aprovisionamiento de infraestructura en Amazon EC2 para desarrollo
+- Proceso con enfoque ADD y Clean Architecture
 - Comunicacion sincrona entre microservicios
 - Comunicacion asincrona entre microservicios
-- Codelab 3
-- Codelab 4
-- Codelab 5
+- Clean Architecture en microservicios Spring Boot
 - Codelab 6
 - Codelab 7
